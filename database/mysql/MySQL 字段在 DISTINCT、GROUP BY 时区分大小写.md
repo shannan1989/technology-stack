@@ -8,10 +8,10 @@
     CREATE TABLE `test` (
         `name` varchar(10) binary DEFAULT NULL,
         `sex` varchar(10) DEFAULT NULL
-    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
     ```
 
-2. 正常创建表结构，在选择字符集（CHARACTER SET）时选择 utf8mb4 ，选择排序规则（COLLATE）时选择 **utf8mb4_bin** 。
+2. 正常创建表结构，在选择字符集（CHARACTER SET）时选择utf8mb4，选择排序规则（COLLATE）时选择**utf8mb4_bin**。
 
 ## 最终的表结构：
 
