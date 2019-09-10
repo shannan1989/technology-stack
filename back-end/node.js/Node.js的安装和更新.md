@@ -29,7 +29,7 @@ npm 官网： https://www.npmjs.com/get-npm
 
 **注意：n 模块不支持Windows系统！**
 
-Windows系统 去官方下载最新版覆盖安装即可。
+Windows系统 去官方下载最新版 Node.js 覆盖安装即可。
 
 更新 npm
 
